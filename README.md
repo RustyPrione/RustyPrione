@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, I'm Rusty Prione👋
 
-<!--
-**RustyPrione/RustyPrione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# A Passionate Developer, Hacker, Product Architect 🚀 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 🤷🏻‍♂️
+
+*  📱 Android Developer
+* 💻 Web Application Developer & Penetration Tester
+* 🤓 UI/UX Designer
+* 💻 System Security Breacher
+* 👘 Martial Artist
+* 😌 Founder of [@RustyPrione](https://www.facebook.com/Rusty47.Inc) Open Source Brand
+* 📝 Turning !deas into Reality
+* 🚀 Love towards Rocket Science Never ends
+* 🔥 Inspired by Elon Musk
+
+## 
+## Reach me via 👇
+
+[![Facebook](https://img.shields.io/badge/Facebook-9fc.svg?style=for-the-badge&logo=facebook)](https://www.facebook.com/Rusty47.Inc)
+[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/raghavan356)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raja-ragavan-21647a1a7)
+
+
+## Projects made with ❤️ 👇
