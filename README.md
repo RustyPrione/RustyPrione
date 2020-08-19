@@ -18,7 +18,7 @@
 ## 
 ## Reach me via 👇
 
-[![Facebook](https://img.shields.io/badge/Facebook-9fc.svg?style=for-the-badge&logo=facebook)](https://www.facebook.com/Rusty47.Inc)
+[![Facebook](https://img.shields.io/badge/Facebook-black.svg?style=for-the-badge&logo=facebook)](https://www.facebook.com/Rusty47.Inc)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/raghavan356)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raja-ragavan-21647a1a7)
 
